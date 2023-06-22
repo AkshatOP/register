@@ -1,0 +1,12 @@
+{
+    "description": "AK's Website",
+    "repo": "https://github.com/AkshatOP/AkshatOP.github.io",
+    "owner": {
+        "username": "AkshatOP",
+        "email": "",
+        "discord": "akshatop"
+    },
+    "record": {
+        "CNAME": "AkshatOP.github.io"
+    }
+}
